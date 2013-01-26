@@ -1,3 +1,13 @@
+HueBot
+==============
+An Android fork of the Java API: imaginary-home https://github.com/greese/imaginary-home
+
+This fork is a Work in progress and not ready for release yet
+
+
+Original readme:
+
+
 imaginary-home
 ==============
 
